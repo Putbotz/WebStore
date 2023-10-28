@@ -64,7 +64,6 @@ certifi==2022.9.24
 cffi==1.15.1
 chardet==5.1.0
 charset-normalizer==3.0.1
-cheroot==9.0.0+ds1
 CherryPy==18.8.0
 cherrypy-cors==1.6
 ci-info==0.3.0
