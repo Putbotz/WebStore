@@ -58,7 +58,6 @@ Brotli==1.0.9
 bruter==0.0.2
 bs4==0.0.1
 cachetools==4.2.2
-catfish==4.16.4
 cbor==1.0.0
 censys==2.1.8
 certifi==2022.9.24
